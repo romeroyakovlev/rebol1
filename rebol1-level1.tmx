@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.3.0_6"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Creating Business Applications With REBOL</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210227T235915Z" changeid="user">
+        <seg># Создание бизнес-приложений с REBOL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>** It's recommended that you first read http://re-bol.com/rebol_quick_start.html and try the app builder at http://withoutwritingcode.com for a quick introduction to Rebol coding.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T002145Z" changeid="user">
+        <seg>** Рекомендуется сначала прочесть http://re-bol.com/rebol_quick_start.html и попробовать конструктор приложений http://withoutwritingcode.com для быстрого ознакомления с программированием на Rebol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then return to read this text for a more complete look at all of Rebol's capabilities.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T002501Z" changeid="user">
+        <seg>Затем вернитесь к чтению этого текста для более полного взгляда на все возможности Rebol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&gt; ** By: Nick Antonaccio  
+Updated: 12-16-2015  
+Learn to solve common business data management problems with a versatile development tool that's simple enough for &quot;non-programmers&quot;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T002008Z" changeid="user">
+        <seg>&gt; ** By: Nick Antonaccio  
+Обновлено: 12-16-2015  
+Научитесь решать типовые проблемы управления бизнес-данными с помощью гибкого инструмента разработки, достаточно простого для непрограммистов.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
