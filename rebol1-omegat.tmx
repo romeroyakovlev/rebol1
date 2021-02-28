@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, be sure to see the short examples at http://re-bol.com/short_rebol_examples.r for a fast and interesting overview of Rebol's simple/productive coding style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T004042Z" changeid="user">
+        <seg>Также не забудьте посмотреть короткие примеры на http://re-bol.com/short_rebol_examples.r для быстрого и интересного обзора простого/продуктивного стиля кодирования на Rebol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>** It's recommended that you first read http://re-bol.com/rebol_quick_start.html and try the app builder at http://withoutwritingcode.com for a quick introduction to Rebol coding.</seg>
       </tuv>
       <tuv lang="RU-RU" changedate="20210228T002145Z" changeid="user">

@@ -6,7 +6,7 @@
 Обновлено: 12-16-2015  
 Научитесь решать типовые проблемы управления бизнес-данными с помощью гибкого инструмента разработки, достаточно простого для непрограммистов.  
 ** Рекомендуется сначала прочесть http://re-bol.com/rebol_quick_start.html и попробовать конструктор приложений http://withoutwritingcode.com для быстрого ознакомления с программированием на Rebol. Затем вернитесь к чтению этого текста для более полного взгляда на все возможности Rebol.  
-Also, be sure to see the short examples at http://re-bol.com/short_rebol_examples.r for a fast and interesting overview of Rebol's simple/productive coding style.  
+Также не забудьте посмотреть короткие примеры на http://re-bol.com/short_rebol_examples.r для быстрого и интересного обзора простого/продуктивного стиля кодирования на Rebol.  
 See http://re-bol.com/examples.txt for many more Rebol code examples.  
 Go to http://rebolforum.com to ask questions.  
 See also 68 YouTube video tutorials about REBOL (10 hours of video).  
