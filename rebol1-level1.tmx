@@ -14,6 +14,42 @@
   <body>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lists, Tables, and the &quot;Foreach&quot; Function  
+2.1 Managing Spreadsheet-Like Data  
+2.2 Some Simple List Algorithms (Count, Sum, Average, Max/Min)  
+2.3 Searching  
+2.4 Gathering Data, and the &quot;Copy&quot; Function  
+2.5 List Comparison Functions  
+2.6 Creating Lists From User Input  
+2.7 Three Useful Data Storage Programs: Inventory, Contacts, Schedule  
+2.8 Working With Tables of Data: Columns and Rows  
+2.9 Additional List/Block/Series Functions and Techniques  
+2.10 Sorting Lists and Tables of Data  
+2.11 CSV Files and the &quot;Parse&quot; Function  
+2.12 Two Paypal Report Programs, Analyzed  
+2.13 Some Perspective about Studying These Topics  
+3\.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T005923Z" changeid="user">
+        <seg>Списки, таблицы и функция &quot;Foreach&quot;
+2.1 Управление табличными данными
+2.2 Несколько простых алгоритмов списка (Count, Sum, Average, Max/Min)  
+2.3 Поиск  
+2.4 Сбор данных и функция &quot;Copy&quot;
+2.5 Функции сравнения списков
+2.6 Создание списков из пользовательского ввода
+2.7 Три полезные программы для хранения данных: Inventory, Contacts, Schedule  
+2.8 Работа с таблицами: Столбцы и строки
+2.9 Дополнительные функции и техники для List/Block/Series
+2.10 Сортировка списков и таблиц
+2.11 CSV файлы и функция &quot;Parse&quot;
+2.12 Анализ двух программ отчётов Paypal
+2.13 Некоторые перспективы изучения этих тем
+3\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># Creating Business Applications With REBOL</seg>
       </tuv>
       <tuv lang="RU-RU" changedate="20210227T235915Z" changeid="user">
@@ -46,6 +82,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's available here and in a shorter version here  
+A slideshow presentation covering the previous introduction is available here.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T004942Z" changeid="user">
+        <seg>Оно доступно здесь и краткая версия здесь.
+Презентация, охватывающая предыдущее введение доступна здесь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Crash Course Introduction to REBOL  
 1.1 Installing and Running Programs  
 1.2 Opening REBOL Directly to the Console  
@@ -68,36 +114,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>It's available here and in a shorter version here  
-A slideshow presentation covering the previous introduction is available here.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changedate="20210228T004942Z" changeid="user">
-        <seg>Оно доступно здесь и краткая версия здесь.
-Презентация, охватывающая предыдущее введение доступна здесь.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>See also 68 YouTube video tutorials about REBOL (10 hours of video).</seg>
-      </tuv>
-      <tuv lang="RU-RU" changedate="20210228T004635Z" changeid="user">
-        <seg>Также посмотрите 68 видео на YouTube с видеоуроками REBOL (10 часов видео).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Go to http://rebolforum.com to ask questions.</seg>
       </tuv>
       <tuv lang="RU-RU" changedate="20210228T004230Z" changeid="user">
         <seg>На форуме http://rebolforum.com можно задавать вопросы.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>See http://re-bol.com/examples.txt for many more Rebol code examples.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changedate="20210228T004206Z" changeid="user">
-        <seg>Смотрите http://re-bol.com/examples.txt где много других примеров кода на Rebol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,14 +130,6 @@ A slideshow presentation covering the previous introduction is available here.</
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>## Contents:</seg>
-      </tuv>
-      <tuv lang="RU-RU" changedate="20210228T004844Z" changeid="user">
-        <seg>## Содержание:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>&gt; ** By: Nick Antonaccio  
 Updated: 12-16-2015  
 Learn to solve common business data management problems with a versatile development tool that's simple enough for &quot;non-programmers&quot;.</seg>
@@ -126,6 +138,40 @@ Learn to solve common business data management problems with a versatile develop
         <seg>&gt; ** By: Nick Antonaccio  
 Обновлено: 12-16-2015  
 Научитесь решать типовые проблемы управления бизнес-данными с помощью гибкого инструмента разработки, достаточно простого для непрограммистов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Review and Clarification  
+5\.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T010031Z" changeid="user">
+        <seg>Краткий обзор и прояснение
+5\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also 68 YouTube video tutorials about REBOL (10 hours of video).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T004635Z" changeid="user">
+        <seg>Также посмотрите 68 видео на YouTube с видеоуроками REBOL (10 часов видео).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See http://re-bol.com/examples.txt for many more Rebol code examples.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T004206Z" changeid="user">
+        <seg>Смотрите http://re-bol.com/examples.txt где много других примеров кода на Rebol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Contents:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T004844Z" changeid="user">
+        <seg>## Содержание:</seg>
       </tuv>
     </tu>
   </body>

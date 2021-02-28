@@ -98,6 +98,52 @@ A slideshow presentation covering the previous introduction is available here.</
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lists, Tables, and the &quot;Foreach&quot; Function  
+2.1 Managing Spreadsheet-Like Data  
+2.2 Some Simple List Algorithms (Count, Sum, Average, Max/Min)  
+2.3 Searching  
+2.4 Gathering Data, and the &quot;Copy&quot; Function  
+2.5 List Comparison Functions  
+2.6 Creating Lists From User Input  
+2.7 Three Useful Data Storage Programs: Inventory, Contacts, Schedule  
+2.8 Working With Tables of Data: Columns and Rows  
+2.9 Additional List/Block/Series Functions and Techniques  
+2.10 Sorting Lists and Tables of Data  
+2.11 CSV Files and the &quot;Parse&quot; Function  
+2.12 Two Paypal Report Programs, Analyzed  
+2.13 Some Perspective about Studying These Topics  
+3\.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T005923Z" changeid="user">
+        <seg>Списки, таблицы и функция &quot;Foreach&quot;
+2.1 Управление табличными данными
+2.2 Несколько простых алгоритмов списка (Count, Sum, Average, Max/Min)  
+2.3 Поиск  
+2.4 Сбор данных и функция &quot;Copy&quot;
+2.5 Функции сравнения списков
+2.6 Создание списков из пользовательского ввода
+2.7 Три полезные программы для хранения данных: Inventory, Contacts, Schedule  
+2.8 Работа с таблицами: Столбцы и строки
+2.9 Дополнительные функции и техники для List/Block/Series
+2.10 Сортировка списков и таблиц
+2.11 CSV файлы и функция &quot;Parse&quot;
+2.12 Анализ двух программ отчётов Paypal
+2.13 Некоторые перспективы изучения этих тем
+3\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Review and Clarification  
+5\.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changedate="20210228T010031Z" changeid="user">
+        <seg>Краткий обзор и прояснение
+5\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See also 68 YouTube video tutorials about REBOL (10 hours of video).</seg>
       </tuv>
       <tuv lang="RU-RU" changedate="20210228T004635Z" changeid="user">
